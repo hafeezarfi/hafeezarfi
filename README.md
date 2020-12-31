@@ -3,9 +3,9 @@
 - 🔭 I am currently working on bill management application.
 - 🌱 I am currently learning flutter,firebase and hive.
 
-[![SoMe Stats](https://github-readme-stats.vercel.app/api?username=hafeezarfi&count_private=true)](https://github.com/hafeezarfi/github-readme-stats)
+[![SoMe Stats](https://github-readme-stats.vercel.app/api?username=hafeezarfi&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/hafeezarfi/github-readme-stats)
 
-[![SoMe Languages usages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezarfi)](https://github.com/hafeezarfi/github-readme-stats)
+[![SoMe Languages usages](https://github-readme-stats.vercel.app/api/top-langs/?username=hafeezarfi&theme=chartreuse-dark)](https://github.com/hafeezarfi/github-readme-stats)
 <!--
 **hafeezarfi/hafeezarfi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
