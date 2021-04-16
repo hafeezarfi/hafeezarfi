@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### I am Hafeezurrahman
-- 🌱 I am currently learning flutter,firebase and hive.
 
 [![SoMe Stats](https://github-readme-stats.vercel.app/api?username=hafeezarfi&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/hafeezarfi/github-readme-stats)
 
